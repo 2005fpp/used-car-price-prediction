@@ -1,0 +1,15 @@
+numpy
+pandas
+warnings
+fuzzywuzzy
+tqdm
+re
+scikit-learn
+matplotlib
+seaborn
+xgboost
+optuna
+joblib
+os
+kneed
+scipy
