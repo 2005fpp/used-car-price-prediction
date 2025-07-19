@@ -7,7 +7,7 @@ A machine learning project for predicting used car prices, utilizing various dat
 ### 📁 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/used-car-price-prediction.git
+git clone https://github.com/{yourusername}/used-car-price-prediction.git
 cd used-car-price-prediction
 ```
 
